@@ -2,14 +2,14 @@
 
 ## Transmission Mode
 
-1) **Simplex Mode:** Communication is unidirectional, as on a one-way street. Only one of the two devices on a link
+1. **Simplex Mode:** Communication is unidirectional, as on a one-way street. Only one of the two devices on a link
 can transmit; the other can only receive. Keyboards and traditional monitors are examples of simplex devices.
 
-2) **Half-Duplex Mode:** Each station can both transmit and receive, but not at the same time. When one device is
+2. **Half-Duplex Mode:** Each station can both transmit and receive, but not at the same time. When one device is
 sending, the other can only receive, and vice versa. Walkie-talkies and two-way radios are examples of half-duplex
 devices.
 
-3) **Full-Duplex Mode:** Both stations can transmit and receive simultaneously. This mode is like a two-way street with
+3. **Full-Duplex Mode:** Both stations can transmit and receive simultaneously. This mode is like a two-way street with
 traffic flowing in both directions at the same time. Telephones and modern network switches are examples of
 full-duplex devices.
 
