@@ -1,49 +1,37 @@
-# Project Template
+# Core Subjects
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/project-template)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/project-template/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/project-template/HEAD)
-[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/project-template/badge)](https://www.codefactor.io/repository/github/gvatsal60/project-template)
-![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/project-template)
-![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/project-template)
-![GitHub forks](https://img.shields.io/github/forks/gvatsal60/project-template)
-![GitHub stars](https://img.shields.io/github/stars/gvatsal60/project-template)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/core-subjects)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/core-subjects/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/core-subjects/HEAD)
+[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/core-subjects/badge)](https://www.codefactor.io/repository/github/gvatsal60/core-subjects)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/core-subjects)
+![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/core-subjects)
+![GitHub forks](https://img.shields.io/github/forks/gvatsal60/core-subjects)
+![GitHub stars](https://img.shields.io/github/stars/gvatsal60/core-subjects)
 
-This repository serves as a foundational template for new projects,
-equipped with essential tools for maintaining code quality and documentation consistency.
-It includes:
+This project provides foundational materials, code, and resources for learning and working with core computer science and software engineering subjects.
 
-1. README.md
-2. LICENSE
-3. .gitignore
-4. CODE_OF_CONDUCT.md
-5. CONTRIBUTING.md
-6. FUNDING.yml
-7. CHANGELOG.md
+## 🚀 Features
 
-## Installation
+- Organized content for core subjects
+- Example code and exercises
+- Ready-to-use development environment
 
-To install Project Template, follow these steps:
+## 🛠️ Getting Started
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/gvatsal60/project-template.git
-   cd project-template
+   ```sh
+   git clone https://github.com/gvatsal60/core-subjects
+   cd core-subjects
    ```
 
-2. **Customize According to Your Project:**
-   * Replace `[Project Name]`
-   * Update `[contact email]`
-   * Follow `[coding style guide]`
+2. **Open in Dev Container:**
+   - Use [VS Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) to open the project for a pre-configured environment.
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Please read our
-[Contribution Guidelines](https://github.com/gvatsal60/project-template/blob/HEAD/CONTRIBUTING.md)
-before submitting pull requests.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## License
+## 🛡️ License
 
-This project is licensed under the Apache License 2.0 License -
-see the [LICENSE](https://github.com/gvatsal60/project-template/blob/HEAD/LICENSE)
-file for details.
+This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for details.
